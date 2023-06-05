@@ -1,0 +1,33 @@
+.header {
+
+    width: 50%;
+    font-size: 20px;
+    color: rgb(196, 255, 2);
+    background-color: black !important;
+    font-weight: 500;
+}
+
+body {
+
+    background-color: rgb(41, 36, 36);
+    color: beige;
+}
+
+.object_names {
+
+    color: gold;
+    font-size: medium;
+}
+
+#camera , #captured_image {
+
+    border: 2px dashed white;
+    height: 400px;
+    width: 400px;
+}
+
+#result_object , #result_accuracy {
+
+    color: gold;
+    font-size: 25px;
+}
